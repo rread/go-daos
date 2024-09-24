@@ -49,4 +49,3 @@ value:
 	export DAOS_POOL=$(dcmd pool create)
 	dcmd cont create --uuid $cont
 	dcmd object hello --cont $cont --value "world"
-
