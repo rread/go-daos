@@ -50,4 +50,3 @@ value:
 	dcmd cont create --uuid $cont
 	dcmd object hello --cont $cont --value "world"
 
-
